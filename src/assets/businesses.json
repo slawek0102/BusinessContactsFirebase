@@ -1,0 +1,92 @@
+[
+    {
+      "category": "IT",
+      "City": "Los Angeles",
+      "Description": "Ala ma kota",
+      "email": "sharon@freedman.dk",
+      "phone": "888888",
+      "state": "Wisconsin",
+      "street": "Cross"
+    },
+    {
+      "category": "Banking",
+      "City": "New York",
+      "Description": "Ala ma kota",
+      "email": "raymond@massey.lu",
+      "phone": "886678",
+      "state": "Wisconsin",
+      "street": "McIntyre"
+    },
+    {
+      "category": "IT",
+      "City": "Los Angeles",
+      "Description": "Ala ma kota",
+      "email": "claude@duke.cy",
+      "phone": "888",
+      "state": "Wisconsin",
+      "street": "Jennings"
+    },
+    {
+      "category": "IT",
+      "City": "New York",
+      "Description": "Ala ma kota",
+      "email": "glenda@goldman.pa",
+      "phone": "8878988",
+      "state": "Wisconsin",
+      "street": "Weiner"
+    },
+    {
+      "category": "Banking",
+      "City": "New York",
+      "Description": "Ala ma kota",
+      "email": "theresa@horowitz.ky",
+      "phone": "88834218",
+      "state": "Wisconsin",
+      "street": "McLean"
+    },
+    {
+      "category": "IT",
+      "City": "New York",
+      "Description": "Ala ma kota",
+      "email": "christina@blanchard.jo",
+      "phone": "88877788",
+      "state": "Wisconsin",
+      "street": "Horne"
+    },
+    {
+      "category": "IT",
+      "City": "New York",
+      "Description": "Ala ma kota",
+      "email": "jeremy@hamilton.cg",
+      "phone": "8",
+      "state": "New York",
+      "street": "Coble"
+    },
+    {
+      "category": "IT",
+      "City": "New York",
+      "Description": "Ala ma kota",
+      "email": "rita@davis.jo",
+      "phone": "888888",
+      "state": "Wisconsin",
+      "street": "Hess"
+    },
+    {
+      "category": "IT",
+      "City": "New York",
+      "Description": "Ala ma kota",
+      "email": "alex@adcock.ms",
+      "phone": "888888",
+      "state": "Wisconsin",
+      "street": "May"
+    },
+    {
+      "category": "IT",
+      "City": "New York",
+      "Description": "Ala ma kota",
+      "email": "ralph@olson.pn",
+      "phone": "888888",
+      "state": "Wisconsin",
+      "street": "Spivey"
+    }
+]
